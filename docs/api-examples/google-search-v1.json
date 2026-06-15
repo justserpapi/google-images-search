@@ -3,14 +3,14 @@
   "message": "success",
   "data": {
     "api": "/api/v1/google/search",
-    "checkedAt": "2026-06-15 12:10:04",
+    "checkedAt": "2026-06-15 14:10:02",
     "example": {
       "code": 200,
       "message": "success",
       "data": {
         "search_information": {
-          "time_taken": 0.46,
-          "total_results": 3010000,
+          "time_taken": 0.51,
+          "total_results": 3000000,
           "query_displayed": "coffee",
           "spelling_fixed": "Choose area",
           "showing_results_for": "Choose area",
@@ -24,29 +24,29 @@
         "local_results": [
           {
             "position": 1,
-            "title": "Aromas",
-            "rating": "5.0",
-            "reviews": "81",
-            "address": "5.0(81) · $10–20 · Coffee shop",
-            "hours": "Union City, NJ",
+            "title": "Bridgeport Coffeehouse",
+            "rating": "4.5",
+            "reviews": "1K",
+            "address": "4.5(1K) · $1–10 · Coffee shop",
+            "hours": "Chicago, IL",
             "links": {}
           },
           {
             "position": 2,
-            "title": "Hybrid Coffee & Kitchen - The Heights",
-            "rating": "4.9",
-            "reviews": "28",
-            "address": "4.9(28) · $10–20 · Coffee shop",
-            "hours": "Jersey City, NJ",
+            "title": "Bad Owl Coffee Roasters",
+            "rating": "4.4",
+            "reviews": "236",
+            "address": "4.4(236) · $1–10 · Coffee shop",
+            "hours": "Chicago, IL",
             "links": {}
           },
           {
             "position": 3,
-            "title": "Roast & C.R.E.A.M.",
-            "rating": "4.6",
-            "reviews": "236",
-            "address": "4.6(236) · $10–20 · Coffee shop",
-            "hours": "Union City, NJ",
+            "title": "Ctrl Z Coffee",
+            "rating": "4.5",
+            "reviews": "91",
+            "address": "4.5(91) · $1–10 · Coffee shop",
+            "hours": "Chicago, IL",
             "links": {}
           }
         ],
@@ -97,18 +97,6 @@
             "page_rank": 3
           },
           {
-            "title": "Black Rifle Coffee Company",
-            "link": "https://www.blackriflecoffee.com/?srsltid=AfmBOopmQ4SDA7Z58cA6f3HTgDuzhBlt8A8EZcTiFhmSOJ6ezAs5ojr5",
-            "displayed_link": "https://www.blackriflecoffee.com",
-            "source": "Black Rifle Coffee Company",
-            "snippet": "Official Site of Black Rifle — America's Fastest Growing Coffee Brand. Coffee, Apparel & Gear for those who love freedom. Serving Premium Coffee & Culture ...",
-            "highlighted_keywords": [
-              "America's Fastest Growing Coffee Brand"
-            ],
-            "rank": 4,
-            "page_rank": 4
-          },
-          {
             "title": "What is coffee? - NCA",
             "link": "https://www.aboutcoffee.org/origins/what-is-coffee/",
             "displayed_link": "https://www.aboutcoffee.org › Origins",
@@ -118,12 +106,25 @@
             "highlighted_keywords": [
               "Learn about the coffee tree, its lifespan, how it produces coffee beans"
             ],
+            "rank": 4,
+            "page_rank": 4
+          },
+          {
+            "title": "Purity Coffee | Shop High Antioxidant Organic Coffee Online",
+            "link": "https://puritycoffee.com/?srsltid=AfmBOoqoWbAaLrM3gDmelnQh1CEPAR709DypTi-doheEKEZokjYWR2Uj",
+            "displayed_link": "https://puritycoffee.com",
+            "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEwAqKIAqKMAqKMAqKMAqKMAqKMAqKMAqKMAqKMAqKMAqKMAqKMAqKMAqKMAqKOUxb52AAAAEHRSTlMABhEjX6HJ3v/68LKLSHU2r1raSQAAAORJREFUeAFjgABBRQEGBDAJKwsxgPNUMmZ0dJQoQHlMkR2dKzs6AqBc7s72I1eOd/ZAuS9m7BdgkN8x6wNE7YpuBWZfAXOoar7OYsaIjlqWGcUQrR0HRDtmdSuvqAdz1Tsdrne8jYZxzTs/eLYx2PICFUO4F7zaGRikOzaAuWogxUHMkTMcwFzWjgDRzq6qzjaIK1hm1jNldHR0FECdXNEqoFO1vAbmRY+ZBxlsfeEe5O5Yh+x55oyuAwxI4FvHbAYU6RkbkPnaML9D7drRboDMV2u/gKJ7+gcGZHBcAYWry4ANAAAooUYYhwCehwAAAABJRU5ErkJggg==",
+            "source": "Purity Coffee",
+            "snippet": "Shop Purity Coffee online today. Explore organic, specialty grade coffee that is purity tested, antioxidant rich and crafted for a cleaner cup at Purity ...",
+            "highlighted_keywords": [
+              "Explore organic, specialty grade coffee"
+            ],
             "rank": 5,
             "page_rank": 5
           },
           {
             "title": "La Colombe Coffee Workshop - Buy Coffee Online",
-            "link": "https://www.lacolombe.com/?srsltid=AfmBOoryeU_Cf3rkmeIs5znEvDzblL7R97czEwHeASc56hqUvfK9NToT",
+            "link": "https://www.lacolombe.com/?srsltid=AfmBOooRAjVY4MOJKPTJiM-nS2Fd08GdvwL59xG1n-CfYCObr8IS5lyy",
             "displayed_link": "https://www.lacolombe.com",
             "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBhAIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Ljc3Nzc3Ly03Nzc1LTc3Ljc3LTc3Nys3LTc1NzcuKzc3Ny01Kzc1KysrN//AABEIABwAHAMBIgACEQEDEQH/xAAYAAEBAQEBAAAAAAAAAAAAAAAHBQEGAP/EACYQAAEDAwMEAgMAAAAAAAAAAAECAwQABRESITEGB1FhIkEygYL/xAAXAQEAAwAAAAAAAAAAAAAAAAACAQME/8QAGxEAAgIDAQAAAAAAAAAAAAAAAQIAEQMSMSH/2gAMAwEAAhEDEQA/AC7YbniklfaaXMtTdxsd0ZkIeaDiWnxpO4zjUCRmuJ6ZtYvd/YthWpsSllBcQMlHxJ1Y9Y3ps7cNmxSXOl3r7BuC2Gy82zGZUFNDUM61ZIG5Hx5rXlYryUot9ghLs8uEX25jZYkw1hLzK+Rng+6n7fe1MXeyzOMWtE+LHaEdUvXLdLmXFLUAlIwR+Ix5/XJod4p422FwsKNTQopOUqIPkHFVukr4505fmbi0t1LTawH0NYy43n5JwdjmpFePFIi/JEXO83VEW4WSHAgO6xKUmY55CADpBH0STn+aI9vdaok7kk/W5rKKLqKEljZuf//Z",
             "source": "La Colombe Coffee Workshop",
@@ -159,29 +160,20 @@
             "page_rank": 7
           },
           {
-            "title": "Fire Dept. Coffee | High Quality Coffee | Veteran Owned",
-            "link": "https://www.firedeptcoffee.com/?srsltid=AfmBOooust4VfjU_TuiJ7RhoBpw2aK1Pm5oyA-dIwDaX4nJOYYRIRL02",
-            "displayed_link": "https://www.firedeptcoffee.com",
-            "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAOVBMVEVHcEziIRziIRziIRziIRziIRziIRziIRziIRziIRziIRziIRziIRziIRziIRziIRziIRziIRziIRzedFNZAAAAE3RSTlMAJDYuEgea/11Ffm7Juonpptmwj+RzaQAAAPBJREFUeAF8zFcWAyEMQ1FRjOlg9r/YMPGkl/v7joS/jFXO4xkRtsCn+NKSxeb4lPGk1HjGVrZe8JBHnUZjxysKHG2wGo/DUoZcBU+NM7wjAJaVHazafFxlvhpO+NgOZkla9FbWarLjMt4HrhbPsYMo7Tg9fJPpALo642aOSK2KWB/WocV7TMyS6hLmvFgt2DM6YeFAk0cfrASBuRm95QwElh0DDgWeyJPGSY/4KgnXGGP7FksQVjIH15eWJbMapQxueNKHs0UlpNfbIAYPL9HM6vEal9vSBGxtBm9RVVCtrw2+s5qgaPGGSj70hMtoAwCyew3gKhOkkgAAAABJRU5ErkJggg==",
-            "source": "Fire Department Coffee",
-            "snippet": "Fire Dept. Coffee is a veteran owned, firefighter run coffee company that is dedicated to roasting high quality coffee while giving back to first ...",
+            "title": "Coffee - Walmart.com",
+            "link": "https://www.walmart.com/cp/coffee/1086446",
+            "displayed_link": "https://www.walmart.com › coffee",
+            "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAOVBMVEVHcEz/wRz/wR7/wh//wh//wBn/wh//wiD/wR7/wh//wh7/wh7/wR//wh//wR3/wh//wh7/wh//wh5JC3qUAAAAE3RSTlMADS92+AfR/8e5YYeZnhflTOw/6JuIewAAAKFJREFUeAG1koURA0EIANHn7bT/YsPEjXj2XFF4GSTC8JBFODrTwWzATw5h9EOImMwmuGIWW7aT1SxtJ4vJDFvyZP6CfMa2vUXbjbw9xGROmRGqSAWcizkJYQul5itZsjIrLuKLlgj2YF/8uHRwevGjpSOcUOJhzeDkdWBSuEJ1P24fvXwYfxsrFJvy3Amx+2LHByGLg/2HHGIxhgglQniVDZyEB/jjfAsrAAAAAElFTkSuQmCC",
+            "source": "Walmart",
+            "snippet": "Shop for Coffee at Walmart.com. Buy Ground coffee, coffee pods, instant coffee, and whole bean coffee. Save money. Live better.",
             "highlighted_keywords": [
-              "Fire Dept. Coffee"
+              "Shop for Coffee at Walmart.com"
             ],
-            "inline_snippet": "5.0",
             "rich_snippet": {
               "bottom": {
-                "detected_extensions": {
-                  "price_from": "$16",
-                  "price_to": "$80",
-                  "currency": "$"
-                },
+                "detected_extensions": {},
                 "extensions": [
-                  "5.0 store rating (1.3K)",
-                  "5.0",
-                  "$16 to $80",
-                  "Free delivery over $45",
-                  "14-day returns"
+                  "Free 90-day returns"
                 ]
               }
             },
@@ -189,15 +181,23 @@
             "page_rank": 8
           },
           {
-            "title": "Types of Coffee Drinks",
-            "link": "https://www.folgerscoffee.com/coffee/articles/types-of-coffee",
-            "displayed_link": "https://www.folgerscoffee.com › coffee › articles › type...",
-            "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX/////lJn/AAD/ur7/7/D/x8r/UVv/ABf/DCP/ABv/AAX/AB//sbX/VF7//P3/6uz/pKj/ByH/IDL/1tj/hoz/RFD/eoH/5Ob/9/f/q6//Kzr/Mj//mJ7/GS3/N0T/PUn/anL/XGX/3uD/8/Oj3ubQAAAAkUlEQVR4Ab3SVQKEIBRAUcDu7tb9r9FuH07P/T1Ko8/C5BKzIsvxgtgnTSArIlHRLjKYhvQ+QxUl2dyjYo04pdsyhnHIIS4dkefDuAVg4IZ0jAhLxxhGJUmxm0kgTickiDAquRqZuXA3Z0FBHvWpdxjgkIpDf0JhQA82fXgmlgCSUY4PTKjq8O5pWhcMmy30bB3mYgrufwH5GAAAAABJRU5ErkJggg==",
-            "source": "Folgers Coffee",
-            "snippet": "Types of Coffee Drinks · Espresso · Espresso & Coffee · Cold Brew · Cappuccino · Mocha · Iced Coffees · Lattes · Breve; Macchiatos; Cortado; Dirty Chai; Dalgona ...Read more",
+            "title": "Counter Culture Coffee",
+            "link": "https://counterculturecoffee.com/?srsltid=AfmBOorjP-vv1y49lYPCRBj18GTDGXdznSTaagVJwkiIyh0hTZOO9me_",
+            "displayed_link": "https://counterculturecoffee.com",
+            "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACu0lEQVR4AWKgAmAFYm4g5gFiNgY6AA5A6fUAK0kQRWE4XTNr27YZrG3biJbB2rZt27Zt27Zt9f5JKslNJdNvKn2SL7V9213YeSiPpHq7AkagB+rrmkIz5NTbjmit4yCg/50QB7AbUXStDLZiKRrqWj7cwknkhoyyu7mOeIi82IMYogt6YQRi6Vpr3MVKcVx0JA77S4gbNkZt4+lrIjFCJQZyo6qozcZ55LXtjlw4g9niZDMKCJkG+IiRyB7OA0RCNLFdER0t+9ERx8XBcOQ3vq5nn69GozC6SXnUzGsGEWGC6IVGOIcM8mSPz6c8th3bUd8YBzEZUTwuXB1LcRUPcRqTkB++Ex2RjAdTYj3YBjeEfxiHKLBKHKSBjGO0sXEJLn7iD1zhu25vIK44N6w53xN1URrV5VuLdh5cfNPtL6zHBOyDiwuIY7PyKdGnu3EI+XRNiTfIht/4CxdPUAAyNZBKvJh1iomLOsYM6Cg+vYtqYr+yX/Pt/x+YCld7gFgwj1U2004ZF8iIqqiIILwe6i/+gfBAPiLfcAJeYylkgrrtLgaeixK6HtlzBbR4gH44hRmIB3NNLwAXv3V7BSkhU9B2BshER3wEPD7/emMavsEEdMQCuNgF4zz7pICMEvWnctGRRPccRnRYJysqYi0KhliMMuGCufwa26sRA8RuRtTBMzxHPTEIzeMioT2O4BXe4Qk2oKqfLoiMLsjuMZDMWhwkRzSPGwegfI8HGY/BSt1fHERDLvTA7DB+3zsevxOjoiuq23bLBLww1gQdq8/bHIOwzxzY4aSFWFjSYjvSICG8Uh45jHGyU9QcWM+QIXiB/eLPsPgYgOri+HaYj83Ioms5UcTPzRXqYiieihHfEauxTyzLkzESS1HYe6zYJ4HxI2QQWmIZ0oivMkysB46m4CsBmG+SQMuEIKzyH3WCk3OyXiwRAAAAAElFTkSuQmCC",
+            "source": "Counter Culture Coffee",
+            "snippet": "Counter Culture Coffee is a specialty coffee roaster sourcing exceptional single-origin and specialty coffee. Fresh-roasted coffee to your doorstep.",
             "highlighted_keywords": [
-              "Espresso"
+              "Counter Culture Coffee"
             ],
+            "rich_snippet": {
+              "bottom": {
+                "detected_extensions": {},
+                "extensions": [
+                  "Free delivery over $30"
+                ]
+              }
+            },
             "rank": 9,
             "page_rank": 9
           }
@@ -224,37 +224,37 @@
             "link": "https://www.google.com/search?gl=us&q=Coffee+name"
           },
           {
-            "query": "Coffee Pic",
-            "link": "https://www.google.com/search?gl=us&q=Coffee+Pic"
-          },
-          {
-            "query": "Coffee NESCAFÉ",
-            "link": "https://www.google.com/search?gl=us&q=Coffee+NESCAFÉ"
-          },
-          {
             "query": "Coffee Bean menu",
             "link": "https://www.google.com/search?gl=us&q=Coffee+Bean+menu"
+          },
+          {
+            "query": "Coffee powder",
+            "link": "https://www.google.com/search?gl=us&q=Coffee+powder"
+          },
+          {
+            "query": "Coffee benefits",
+            "link": "https://www.google.com/search?gl=us&q=Coffee+benefits"
           }
         ],
         "pagination": {
           "current": "1",
-          "next": "https://www.google.com/search?q=coffee&safe=off&sca_esv=f2c5f67995325226&gl=us&hl=en&ei=mesvapfFLYio5NoP-Pe62As&start=10&sa=N&sstk=AU9db-B4ccypnLRmHV1wvhcrRXnQxjik-nq5Lgodk-uzupfBl7zfHl7j4fsiKuxWGVG6aQkpgQ_4ouSjdATg9DjMElB861uBnmWmPw&ved=2ahUKEwjX9eqlm4mVAxUIFFkFHfi7DrsQ8NMDegUIvgEQFg",
+          "next": "https://www.google.com/search?q=coffee&safe=off&sca_esv=dee7e4ee5df43762&gl=us&hl=en&ei=uAcwaoXFFv3W5NoPkYbj6Qc&start=10&sa=N&sstk=AU9db-BnCpnuxvuCYNjxY3wzAzP8Vpb84gL1gEbupwUhiN7E_6HPiVFG5MYXsUZ2Q2ULwTHKk-h8JTcg03yJdqMQis1xLejvzTOimg&ved=2ahUKEwiFgbSOtomVAxV9K1kFHRHDOH0Q8NMDegUIpgEQFg",
           "page_no": {
-            "2": "https://www.google.com/search?q=coffee&safe=off&sca_esv=f2c5f67995325226&gl=us&hl=en&ei=mesvapfFLYio5NoP-Pe62As&start=10&sa=N&sstk=AU9db-B4ccypnLRmHV1wvhcrRXnQxjik-nq5Lgodk-uzupfBl7zfHl7j4fsiKuxWGVG6aQkpgQ_4ouSjdATg9DjMElB861uBnmWmPw&ved=2ahUKEwjX9eqlm4mVAxUIFFkFHfi7DrsQ8tMDegUIvgEQBA",
-            "3": "https://www.google.com/search?q=coffee&safe=off&sca_esv=f2c5f67995325226&gl=us&hl=en&ei=mesvapfFLYio5NoP-Pe62As&start=20&sa=N&sstk=AU9db-B4ccypnLRmHV1wvhcrRXnQxjik-nq5Lgodk-uzupfBl7zfHl7j4fsiKuxWGVG6aQkpgQ_4ouSjdATg9DjMElB861uBnmWmPw&ved=2ahUKEwjX9eqlm4mVAxUIFFkFHfi7DrsQ8tMDegUIvgEQBg",
-            "4": "https://www.google.com/search?q=coffee&safe=off&sca_esv=f2c5f67995325226&gl=us&hl=en&ei=mesvapfFLYio5NoP-Pe62As&start=30&sa=N&sstk=AU9db-B4ccypnLRmHV1wvhcrRXnQxjik-nq5Lgodk-uzupfBl7zfHl7j4fsiKuxWGVG6aQkpgQ_4ouSjdATg9DjMElB861uBnmWmPw&ved=2ahUKEwjX9eqlm4mVAxUIFFkFHfi7DrsQ8tMDegUIvgEQCA",
-            "5": "https://www.google.com/search?q=coffee&safe=off&sca_esv=f2c5f67995325226&gl=us&hl=en&ei=mesvapfFLYio5NoP-Pe62As&start=40&sa=N&sstk=AU9db-B4ccypnLRmHV1wvhcrRXnQxjik-nq5Lgodk-uzupfBl7zfHl7j4fsiKuxWGVG6aQkpgQ_4ouSjdATg9DjMElB861uBnmWmPw&ved=2ahUKEwjX9eqlm4mVAxUIFFkFHfi7DrsQ8tMDegUIvgEQCg",
-            "6": "https://www.google.com/search?q=coffee&safe=off&sca_esv=f2c5f67995325226&gl=us&hl=en&ei=mesvapfFLYio5NoP-Pe62As&start=50&sa=N&sstk=AU9db-B4ccypnLRmHV1wvhcrRXnQxjik-nq5Lgodk-uzupfBl7zfHl7j4fsiKuxWGVG6aQkpgQ_4ouSjdATg9DjMElB861uBnmWmPw&ved=2ahUKEwjX9eqlm4mVAxUIFFkFHfi7DrsQ8tMDegUIvgEQDA",
-            "7": "https://www.google.com/search?q=coffee&safe=off&sca_esv=f2c5f67995325226&gl=us&hl=en&ei=mesvapfFLYio5NoP-Pe62As&start=60&sa=N&sstk=AU9db-B4ccypnLRmHV1wvhcrRXnQxjik-nq5Lgodk-uzupfBl7zfHl7j4fsiKuxWGVG6aQkpgQ_4ouSjdATg9DjMElB861uBnmWmPw&ved=2ahUKEwjX9eqlm4mVAxUIFFkFHfi7DrsQ8tMDegUIvgEQDg",
-            "8": "https://www.google.com/search?q=coffee&safe=off&sca_esv=f2c5f67995325226&gl=us&hl=en&ei=mesvapfFLYio5NoP-Pe62As&start=70&sa=N&sstk=AU9db-B4ccypnLRmHV1wvhcrRXnQxjik-nq5Lgodk-uzupfBl7zfHl7j4fsiKuxWGVG6aQkpgQ_4ouSjdATg9DjMElB861uBnmWmPw&ved=2ahUKEwjX9eqlm4mVAxUIFFkFHfi7DrsQ8tMDegUIvgEQEA",
-            "9": "https://www.google.com/search?q=coffee&safe=off&sca_esv=f2c5f67995325226&gl=us&hl=en&ei=mesvapfFLYio5NoP-Pe62As&start=80&sa=N&sstk=AU9db-B4ccypnLRmHV1wvhcrRXnQxjik-nq5Lgodk-uzupfBl7zfHl7j4fsiKuxWGVG6aQkpgQ_4ouSjdATg9DjMElB861uBnmWmPw&ved=2ahUKEwjX9eqlm4mVAxUIFFkFHfi7DrsQ8tMDegUIvgEQEg",
-            "10": "https://www.google.com/search?q=coffee&safe=off&sca_esv=f2c5f67995325226&gl=us&hl=en&ei=mesvapfFLYio5NoP-Pe62As&start=90&sa=N&sstk=AU9db-B4ccypnLRmHV1wvhcrRXnQxjik-nq5Lgodk-uzupfBl7zfHl7j4fsiKuxWGVG6aQkpgQ_4ouSjdATg9DjMElB861uBnmWmPw&ved=2ahUKEwjX9eqlm4mVAxUIFFkFHfi7DrsQ8tMDegUIvgEQFA"
+            "2": "https://www.google.com/search?q=coffee&safe=off&sca_esv=dee7e4ee5df43762&gl=us&hl=en&ei=uAcwaoXFFv3W5NoPkYbj6Qc&start=10&sa=N&sstk=AU9db-BnCpnuxvuCYNjxY3wzAzP8Vpb84gL1gEbupwUhiN7E_6HPiVFG5MYXsUZ2Q2ULwTHKk-h8JTcg03yJdqMQis1xLejvzTOimg&ved=2ahUKEwiFgbSOtomVAxV9K1kFHRHDOH0Q8tMDegUIpgEQBA",
+            "3": "https://www.google.com/search?q=coffee&safe=off&sca_esv=dee7e4ee5df43762&gl=us&hl=en&ei=uAcwaoXFFv3W5NoPkYbj6Qc&start=20&sa=N&sstk=AU9db-BnCpnuxvuCYNjxY3wzAzP8Vpb84gL1gEbupwUhiN7E_6HPiVFG5MYXsUZ2Q2ULwTHKk-h8JTcg03yJdqMQis1xLejvzTOimg&ved=2ahUKEwiFgbSOtomVAxV9K1kFHRHDOH0Q8tMDegUIpgEQBg",
+            "4": "https://www.google.com/search?q=coffee&safe=off&sca_esv=dee7e4ee5df43762&gl=us&hl=en&ei=uAcwaoXFFv3W5NoPkYbj6Qc&start=30&sa=N&sstk=AU9db-BnCpnuxvuCYNjxY3wzAzP8Vpb84gL1gEbupwUhiN7E_6HPiVFG5MYXsUZ2Q2ULwTHKk-h8JTcg03yJdqMQis1xLejvzTOimg&ved=2ahUKEwiFgbSOtomVAxV9K1kFHRHDOH0Q8tMDegUIpgEQCA",
+            "5": "https://www.google.com/search?q=coffee&safe=off&sca_esv=dee7e4ee5df43762&gl=us&hl=en&ei=uAcwaoXFFv3W5NoPkYbj6Qc&start=40&sa=N&sstk=AU9db-BnCpnuxvuCYNjxY3wzAzP8Vpb84gL1gEbupwUhiN7E_6HPiVFG5MYXsUZ2Q2ULwTHKk-h8JTcg03yJdqMQis1xLejvzTOimg&ved=2ahUKEwiFgbSOtomVAxV9K1kFHRHDOH0Q8tMDegUIpgEQCg",
+            "6": "https://www.google.com/search?q=coffee&safe=off&sca_esv=dee7e4ee5df43762&gl=us&hl=en&ei=uAcwaoXFFv3W5NoPkYbj6Qc&start=50&sa=N&sstk=AU9db-BnCpnuxvuCYNjxY3wzAzP8Vpb84gL1gEbupwUhiN7E_6HPiVFG5MYXsUZ2Q2ULwTHKk-h8JTcg03yJdqMQis1xLejvzTOimg&ved=2ahUKEwiFgbSOtomVAxV9K1kFHRHDOH0Q8tMDegUIpgEQDA",
+            "7": "https://www.google.com/search?q=coffee&safe=off&sca_esv=dee7e4ee5df43762&gl=us&hl=en&ei=uAcwaoXFFv3W5NoPkYbj6Qc&start=60&sa=N&sstk=AU9db-BnCpnuxvuCYNjxY3wzAzP8Vpb84gL1gEbupwUhiN7E_6HPiVFG5MYXsUZ2Q2ULwTHKk-h8JTcg03yJdqMQis1xLejvzTOimg&ved=2ahUKEwiFgbSOtomVAxV9K1kFHRHDOH0Q8tMDegUIpgEQDg",
+            "8": "https://www.google.com/search?q=coffee&safe=off&sca_esv=dee7e4ee5df43762&gl=us&hl=en&ei=uAcwaoXFFv3W5NoPkYbj6Qc&start=70&sa=N&sstk=AU9db-BnCpnuxvuCYNjxY3wzAzP8Vpb84gL1gEbupwUhiN7E_6HPiVFG5MYXsUZ2Q2ULwTHKk-h8JTcg03yJdqMQis1xLejvzTOimg&ved=2ahUKEwiFgbSOtomVAxV9K1kFHRHDOH0Q8tMDegUIpgEQEA",
+            "9": "https://www.google.com/search?q=coffee&safe=off&sca_esv=dee7e4ee5df43762&gl=us&hl=en&ei=uAcwaoXFFv3W5NoPkYbj6Qc&start=80&sa=N&sstk=AU9db-BnCpnuxvuCYNjxY3wzAzP8Vpb84gL1gEbupwUhiN7E_6HPiVFG5MYXsUZ2Q2ULwTHKk-h8JTcg03yJdqMQis1xLejvzTOimg&ved=2ahUKEwiFgbSOtomVAxV9K1kFHRHDOH0Q8tMDegUIpgEQEg",
+            "10": "https://www.google.com/search?q=coffee&safe=off&sca_esv=dee7e4ee5df43762&gl=us&hl=en&ei=uAcwaoXFFv3W5NoPkYbj6Qc&start=90&sa=N&sstk=AU9db-BnCpnuxvuCYNjxY3wzAzP8Vpb84gL1gEbupwUhiN7E_6HPiVFG5MYXsUZ2Q2ULwTHKk-h8JTcg03yJdqMQis1xLejvzTOimg&ved=2ahUKEwiFgbSOtomVAxV9K1kFHRHDOH0Q8tMDegUIpgEQFA"
           }
         }
       }
     }
   },
-  "requestId": "b8d1fb67-4047-404d-b447-bb3ce83f5127",
-  "timestamp": 1781528403195,
-  "recordTime": "2026-06-15 21:00:03"
+  "requestId": "3547b347-3d3a-4d16-92df-e142ce7a4911",
+  "timestamp": 1781535603716,
+  "recordTime": "2026-06-15 23:00:03"
 }
